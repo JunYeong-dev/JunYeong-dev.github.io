@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Jun Yeong Kim
 
-You can use the [editor on GitHub](https://github.com/JunYeong-dev/JunYeong-dev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Rokugatsu, Adachi Ku, Tokyo  
+Phone: 080-7651-1149   
+kjy8827@gmail.com, github.com/JunYeong-dev
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Skills
+### Backend
+* Java, PHP
+* Spring Boot, Spring MVC, Spring Security, Spring Data JPA
+* JPA, MyBatis
+* JUnit
+* Gradle, Maven
+* IntelliJ, Visual Studio Code, Eclipse, Spring
 
-### Markdown
+### DevOps
+* MySQL, MariaDB, OracleDB
+* AWS RDS (MariaDB), S3, EC2
+* Tomcat
+* Linux CentOS
+* GIT, SVN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Frontend
+* JavaScript
+* Angular
+* Thymeleaf
+* JSP, JQuery
 
-```markdown
-Syntax highlighted code block
+### Language
+* Japanese in full professional proficiency
+* English in a conversation level
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+# Projects
+### Test (Estore / Tokyo) | 10 . 2019 - PRESENT
+* 
 
-1. Numbered
-2. List
+### 
+*
 
-**Bold** and _Italic_ and `Code` text
+### Human Resources Recruitment System (SES / Seoul) | 9 . 2018 - 3 . 2019
+* Joined the development task force after graduating with the highest grade in the academy
+* Designed dozens of DB tables and screens
+* Implemented a matching system between human resources and the enterprise 
+* Spring, MariaDB, MyBatis, Maven, JSP, JavaScript, Angular.js, SVN
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Experience
+### Estore (Tokyo / Japan) | 4 . 2019 - PRESENT  
+*  
 
-### Jekyll Themes
+### Smart Cloud IT Master (Seoul / Republic of Korea) | 10 . 2017 - 3 . 2019 
+* Learned design patterns in web development and built up the skill sets expected to implement dynamic web applications 
+* Spring, OracleDB, MyBatis, Maven, JSP, JavaScript, GIT
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JunYeong-dev/JunYeong-dev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
