@@ -11,7 +11,7 @@ kjy8827@gmail.com, github.com/JunYeong-dev
 * JPA, MyBatis
 * JUnit
 * Gradle, Maven
-* IntelliJ, Visual Studio Code, Eclipse, Spring
+* IntelliJ, Visual Studio Code, Eclipse, Spring, PhpStorm
 
 ### DevOps
 * MySQL, MariaDB, OracleDB
