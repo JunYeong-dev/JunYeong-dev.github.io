@@ -28,7 +28,6 @@ kjy8827@gmail.com, github.com/JunYeong-dev
 
 ### Language
 * Japanese in full professional proficiency
-* English in a conversation level
 
 ---
 
