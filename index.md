@@ -40,7 +40,7 @@ kjy8827@gmail.com, github.com/JunYeong-dev
 *
 
 ### Human Resources Recruitment System (SES / Seoul) | 9 . 2018 - 3 . 2019
-* Joined the development task force after graduating with the highest grade in the academy
+* Joined the development task force after graduating the academy
 * Designed dozens of DB tables and screens
 * Implemented a matching system between human resources and the enterprise 
 * Spring, MariaDB, MyBatis, Maven, JSP, JavaScript, Angular.js, SVN
