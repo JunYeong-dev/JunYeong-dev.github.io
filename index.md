@@ -2,7 +2,7 @@
 
 Rokugatsu, Adachi Ku, Tokyo  
 Phone: 080-7651-1149   
-kjy8827@gmail.com, github.com/JunYeong-dev
+junyeongkim.dev@gmail.com, github.com/JunYeong-dev
 
 # Skills
 ### Backend
