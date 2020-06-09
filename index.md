@@ -36,9 +36,6 @@ junyeongkim.dev@gmail.com, github.com/JunYeong-dev
 * 
 * Php, Mysql, MariaDB
 
-### 
-*
-
 ### Human Resources Recruitment System (SES / Seoul) | 9 . 2018 - 3 . 2019
 * Joined the development task force after graduating the academy
 * Designed dozens of DB tables and screens
@@ -48,11 +45,12 @@ junyeongkim.dev@gmail.com, github.com/JunYeong-dev
 ---
 
 # Experience
-### Estore (Tokyo / Japan) | 4 . 2019 - PRESENT  
-* 
-* Php, Mysql, MariaDB, JavaScript, GIT
+### Estore (Tokyo / Japan) | 4 . 2019 - PRESENT
+* Business System Division
+* System designing, Implementation, Testing
+* Using AWS as a development server
+* Review team members' design and implementation
 
 ### Smart Cloud IT Master (Seoul / Republic of Korea) | 10 . 2017 - 3 . 2019 
 * Learned design patterns in web development and built up the skill sets expected to implement dynamic web applications 
 * Java, Spring, OracleDB, MyBatis, Maven, JSP, JavaScript, GIT
-
