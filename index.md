@@ -34,6 +34,7 @@ kjy8827@gmail.com, github.com/JunYeong-dev
 # Projects
 ### Test (Estore / Tokyo) | 10 . 2019 - PRESENT
 * 
+* Php, Mysql, MariaDB
 
 ### 
 *
@@ -48,9 +49,10 @@ kjy8827@gmail.com, github.com/JunYeong-dev
 
 # Experience
 ### Estore (Tokyo / Japan) | 4 . 2019 - PRESENT  
-*  
+* 
+* Php, Mysql, MariaDB, JavaScript, GIT
 
 ### Smart Cloud IT Master (Seoul / Republic of Korea) | 10 . 2017 - 3 . 2019 
 * Learned design patterns in web development and built up the skill sets expected to implement dynamic web applications 
-* Spring, OracleDB, MyBatis, Maven, JSP, JavaScript, GIT
+* Java, Spring, OracleDB, MyBatis, Maven, JSP, JavaScript, GIT
 
